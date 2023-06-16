@@ -41,3 +41,1352 @@ Response: 404 1.823 ms
 
 Request: GET /favicon.ico at Thu Jun 15 2023 23:33:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 Response: 404 0.742 ms 
+
+Request: GET / at Thu Jun 15 2023 23:43:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 4.442 ms 
+
+Request: GET /public/css/styles.css at Thu Jun 15 2023 23:43:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 2.860 ms 
+
+Request: GET / at Thu Jun 15 2023 23:43:14 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.964 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:43:14 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.692 ms 
+
+Request: POST /routes/form at Thu Jun 15 2023 23:43:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "",
+	"password": ""
+}
+Response: 200 16.260 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:43:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.699 ms 
+
+Request: GET / at Thu Jun 15 2023 23:44:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 1.337 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:44:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.740 ms 
+
+Request: GET / at Thu Jun 15 2023 23:47:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.812 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:47:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.289 ms 
+
+Request: GET / at Thu Jun 15 2023 23:47:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.802 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:47:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.659 ms 
+
+Request: GET / at Thu Jun 15 2023 23:48:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.105 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:48:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.700 ms 
+
+Request: GET / at Thu Jun 15 2023 23:49:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.502 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:49:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.886 ms 
+
+Request: GET / at Thu Jun 15 2023 23:49:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.464 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:49:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.931 ms 
+
+Request: GET / at Thu Jun 15 2023 23:49:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 1.921 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:49:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.800 ms 
+
+Request: GET / at Thu Jun 15 2023 23:49:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.616 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:49:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.545 ms 
+
+Request: GET / at Thu Jun 15 2023 23:49:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.420 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:49:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.465 ms 
+
+Request: GET / at Thu Jun 15 2023 23:49:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.512 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:49:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.311 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.401 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.383 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.446 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.273 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.465 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.395 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.409 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.288 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.390 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.254 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.372 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.031 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.384 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.596 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.396 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.308 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.415 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.411 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.402 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.374 ms 
+
+Request: GET / at Thu Jun 15 2023 23:50:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.415 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.590 ms 
+
+Request: POST /routes/form at Thu Jun 15 2023 23:50:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "",
+	"password": ""
+}
+Response: 200 3.256 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:50:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.486 ms 
+
+Request: GET / at Thu Jun 15 2023 23:51:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.726 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:51:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.276 ms 
+
+Request: GET / at Thu Jun 15 2023 23:51:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.417 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:51:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.061 ms 
+
+Request: GET / at Thu Jun 15 2023 23:51:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.456 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:51:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.583 ms 
+
+Request: GET / at Thu Jun 15 2023 23:52:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.732 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:52:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.516 ms 
+
+Request: GET / at Thu Jun 15 2023 23:52:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.054 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:52:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.636 ms 
+
+Request: GET / at Thu Jun 15 2023 23:53:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.562 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:53:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.695 ms 
+
+Request: GET / at Thu Jun 15 2023 23:53:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.576 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:53:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.420 ms 
+
+Request: GET / at Thu Jun 15 2023 23:53:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.649 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:53:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.811 ms 
+
+Request: GET / at Thu Jun 15 2023 23:53:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.615 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:53:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.465 ms 
+
+Request: GET / at Thu Jun 15 2023 23:53:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 1.539 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:53:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.762 ms 
+
+Request: GET / at Thu Jun 15 2023 23:53:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.620 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:53:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.624 ms 
+
+Request: GET / at Thu Jun 15 2023 23:54:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.596 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:54:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.636 ms 
+
+Request: GET / at Thu Jun 15 2023 23:54:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.418 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:54:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.659 ms 
+
+Request: GET / at Thu Jun 15 2023 23:54:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.649 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:54:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.490 ms 
+
+Request: GET / at Thu Jun 15 2023 23:55:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.050 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:55:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.630 ms 
+
+Request: GET / at Thu Jun 15 2023 23:56:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.418 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:56:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.917 ms 
+
+Request: GET / at Thu Jun 15 2023 23:56:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.554 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:56:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.409 ms 
+
+Request: GET / at Thu Jun 15 2023 23:57:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.410 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:57:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.963 ms 
+
+Request: GET / at Thu Jun 15 2023 23:57:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.668 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:57:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.935 ms 
+
+Request: GET / at Thu Jun 15 2023 23:57:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.665 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:57:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.590 ms 
+
+Request: GET / at Thu Jun 15 2023 23:57:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.481 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:57:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.666 ms 
+
+Request: GET / at Thu Jun 15 2023 23:57:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.621 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:57:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.736 ms 
+
+Request: GET / at Thu Jun 15 2023 23:58:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.479 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:58:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.667 ms 
+
+Request: GET / at Thu Jun 15 2023 23:58:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.553 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:58:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.704 ms 
+
+Request: GET / at Thu Jun 15 2023 23:58:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.410 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:58:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.515 ms 
+
+Request: GET / at Thu Jun 15 2023 23:58:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.431 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:58:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.726 ms 
+
+Request: GET / at Thu Jun 15 2023 23:58:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.688 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:58:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.518 ms 
+
+Request: GET / at Thu Jun 15 2023 23:58:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.392 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:58:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.795 ms 
+
+Request: GET / at Thu Jun 15 2023 23:59:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.601 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:59:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.716 ms 
+
+Request: GET / at Thu Jun 15 2023 23:59:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.401 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:59:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.904 ms 
+
+Request: GET / at Thu Jun 15 2023 23:59:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.405 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:59:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.960 ms 
+
+Request: GET / at Thu Jun 15 2023 23:59:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.394 ms 
+
+Request: GET /css/styles.css at Thu Jun 15 2023 23:59:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.657 ms 
+
+Request: GET / at Fri Jun 16 2023 00:00:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.571 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:00:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.825 ms 
+
+Request: GET / at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.549 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.535 ms 
+
+Request: GET / at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.621 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.381 ms 
+
+Request: GET / at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.431 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.373 ms 
+
+Request: GET / at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.390 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.290 ms 
+
+Request: GET / at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.537 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:00:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.263 ms 
+
+Request: GET / at Fri Jun 16 2023 00:00:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.660 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:00:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.296 ms 
+
+Request: GET / at Fri Jun 16 2023 00:01:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.368 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:01:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.524 ms 
+
+Request: GET / at Fri Jun 16 2023 00:03:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.376 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:03:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.847 ms 
+
+Request: GET / at Fri Jun 16 2023 00:03:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.600 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:03:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.534 ms 
+
+Request: GET / at Fri Jun 16 2023 00:04:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.593 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:04:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.487 ms 
+
+Request: GET / at Fri Jun 16 2023 00:04:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.663 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:04:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.677 ms 
+
+Request: GET / at Fri Jun 16 2023 00:04:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.394 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:04:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.909 ms 
+
+Request: GET / at Fri Jun 16 2023 00:04:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.399 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:04:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.901 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.560 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.481 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.332 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.666 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.383 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.505 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.568 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.796 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.397 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.316 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.376 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.327 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.383 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.836 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.381 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.578 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.417 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.408 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.358 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.501 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.386 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.349 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.380 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.268 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.413 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.366 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.365 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.986 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.893 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.244 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.384 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.266 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.776 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.278 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.383 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.477 ms 
+
+Request: GET / at Fri Jun 16 2023 00:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.417 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.398 ms 
+
+Request: GET / at Fri Jun 16 2023 00:06:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 1.204 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:06:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.493 ms 
+
+Request: GET / at Fri Jun 16 2023 00:06:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.705 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:06:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.412 ms 
+
+Request: GET / at Fri Jun 16 2023 00:06:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.416 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:06:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.278 ms 
+
+Request: GET / at Fri Jun 16 2023 00:06:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.375 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:06:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.523 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.389 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.621 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.413 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.592 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.411 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.729 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.380 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.255 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.380 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.297 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.388 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.488 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.499 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.284 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.547 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.478 ms 
+
+Request: GET / at Fri Jun 16 2023 00:07:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.737 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:07:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 2.172 ms 
+
+Request: GET / at Fri Jun 16 2023 00:08:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.353 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:08:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.502 ms 
+
+Request: GET / at Fri Jun 16 2023 00:08:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.484 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:08:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.773 ms 
+
+Request: GET / at Fri Jun 16 2023 00:08:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.530 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:08:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.397 ms 
+
+Request: GET / at Fri Jun 16 2023 00:08:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.429 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:08:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.623 ms 
+
+Request: GET / at Fri Jun 16 2023 00:08:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.636 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:08:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.501 ms 
+
+Request: GET / at Fri Jun 16 2023 00:09:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.713 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:09:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.358 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.379 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.732 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.586 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.450 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.381 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.293 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.383 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.533 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.375 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.284 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.471 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.357 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.380 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.640 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.412 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.416 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.637 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.522 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.388 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.590 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.386 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.464 ms 
+
+Request: GET / at Fri Jun 16 2023 00:10:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.778 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:10:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.353 ms 
+
+Request: GET / at Fri Jun 16 2023 00:11:14 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.424 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:11:14 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.153 ms 
+
+Request: GET / at Fri Jun 16 2023 00:11:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.490 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:11:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.647 ms 
+
+Request: GET / at Fri Jun 16 2023 00:12:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.652 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:12:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.477 ms 
+
+Request: GET / at Fri Jun 16 2023 00:12:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.430 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:12:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.939 ms 
+
+Request: GET / at Fri Jun 16 2023 00:13:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.881 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:13:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.466 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:13:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 1.178 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:17:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 0.961 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:17:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.570 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:17:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.669 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:17:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.112 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:17:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.753 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:17:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.851 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:17:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.952 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:17:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.639 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:18:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.776 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:18:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.680 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:18:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 1.987 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:18:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.584 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:19:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 1.165 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:19:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.422 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:19:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.738 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:19:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.909 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:20:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 1.931 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:20:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.508 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:20:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 1.439 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:20:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.549 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:20:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.901 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:20:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.868 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:20:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 1.040 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:20:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.742 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.654 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:21:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.819 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:21:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.895 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:21:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.679 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:21:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.918 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:21:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.693 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:22:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.888 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:22:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.811 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:22:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.593 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:22:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.813 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:22:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.585 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:22:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.526 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:22:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.755 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:22:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.093 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:22:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.881 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:22:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.340 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:23:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.678 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:23:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.432 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:23:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.621 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:23:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.149 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:23:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 304 0.788 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:23:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.523 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:23:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 0.986 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:23:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.568 ms 
+
+Request: GET / at Fri Jun 16 2023 00:23:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.521 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:23:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.539 ms 
+
+Request: GET / at Fri Jun 16 2023 00:24:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.682 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:24:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.859 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:29:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 1.384 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:29:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.420 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:29:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.610 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:29:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.768 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:29:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.559 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:30:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.887 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:30:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.366 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:30:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.635 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:31:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.566 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:31:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.475 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:31:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.527 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:31:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.592 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.575 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.667 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:31:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.001 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:31:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.561 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:31:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.721 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:31:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.341 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:31:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.952 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:31:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.004 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:31:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.575 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:31:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.587 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:31:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.926 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:31:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.834 ms 
+
+Request: GET /assets/404.png at Fri Jun 16 2023 00:31:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.326 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:32:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.549 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:32:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.554 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:32:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.967 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:32:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.781 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:33:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.567 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:33:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.679 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:33:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.687 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:33:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.401 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:33:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.913 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:33:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.245 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:34:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.536 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:34:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.560 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:34:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.594 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:34:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.569 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:34:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.573 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:34:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.540 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:35:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.786 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:35:18 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.656 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:35:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.537 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:35:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.758 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.591 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.534 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.828 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.530 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.880 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.770 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.546 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.283 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.688 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.236 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.541 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.426 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.915 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.231 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.629 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.333 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.921 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.240 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.910 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.620 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.546 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.679 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.906 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.223 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.596 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.264 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.593 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.483 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:36:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.624 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:36:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.421 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:37:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.585 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:37:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.288 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:37:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.663 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:37:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.259 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:38:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.758 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:38:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.456 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:38:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.553 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:38:09 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.308 ms 
+
+Request: GET /routes/6351635 at Fri Jun 16 2023 00:38:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.613 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 00:38:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.543 ms 
+
+Request: GET / at Fri Jun 16 2023 00:38:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.695 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:38:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.278 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:38:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daninhofeitosa@hotmail.com",
+	"password": "dadwd"
+}
+Response: 200 1.331 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:38:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.472 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:38:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@203"
+}
+Response: 200 1.490 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 00:38:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.265 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 00:39:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 1.146 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 00:39:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.423 ms 

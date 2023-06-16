@@ -5,33 +5,28 @@
 }
 
 body {
+  background-color: #edede9;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #edede9;
+  font-size: 32px;
   width: 100vw;
   height: 100vh;
 }
 
-#form {
-  display: flex;
-  flex-direction: column;
-  width: 300px;
-}
-
-#form input {
+#btn {
   padding: 0.5rem;
-  margin: 0.5rem 0;
-  border: 1px solid #858b92;
-  border-radius: 4px;
-}
-
-#form__btn {
-  padding: 0.5rem;
-  background-color: #343a40;
+  margin-top: 2rem;
+  background-color: green;
   color: #edede9;
-  border: none;
+  font-weight: 700;
   border-radius: 4px;
+  border: none;
+  width: 100px;
   cursor: pointer;
 }

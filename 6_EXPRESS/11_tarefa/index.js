@@ -11,7 +11,7 @@ const fs = require('fs')
 const moment = require('moment')
 
 // Definicao da porta
-const port = 3000
+const port = 5000
 // Variavel que acessa os arquivos .html da minha pasta 'templates'
 const basePath = path.join(__dirname, 'templates')
 

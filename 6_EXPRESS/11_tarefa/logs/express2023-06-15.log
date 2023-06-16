@@ -32,3 +32,12 @@ Response: 200 2.672 ms
 
 Request: GET /public/css/styles.css at Thu Jun 15 2023 17:56:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 Response: 404 1.076 ms 
+
+Request: GET / at Thu Jun 15 2023 23:33:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 5.258 ms 
+
+Request: GET /public/css/styles.css at Thu Jun 15 2023 23:33:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.823 ms 
+
+Request: GET /favicon.ico at Thu Jun 15 2023 23:33:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 0.742 ms 

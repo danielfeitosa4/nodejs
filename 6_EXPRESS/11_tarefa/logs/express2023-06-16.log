@@ -1,0 +1,32 @@
+
+Request: GET / at Fri Jun 16 2023 18:23:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 4.626 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 18:23:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.126 ms 
+
+Request: GET /favicon.ico at Fri Jun 16 2023 18:23:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.351 ms 
+
+Request: POST /routes/form at Fri Jun 16 2023 18:23:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Request Body:
+{
+	"email": "daniel.gama@gmail.com",
+	"password": "root@2023"
+}
+Response: 200 46.519 ms 
+
+Request: GET /css/home.css at Fri Jun 16 2023 18:23:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 0.878 ms 
+
+Request: GET /routes/form5 at Fri Jun 16 2023 18:23:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 404 1.799 ms 
+
+Request: GET /css/404.css at Fri Jun 16 2023 18:23:39 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 200 1.083 ms 
+
+Request: GET / at Fri Jun 16 2023 18:23:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 1.456 ms 
+
+Request: GET /css/styles.css at Fri Jun 16 2023 18:23:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Response: 304 0.468 ms 

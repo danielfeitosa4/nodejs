@@ -1,0 +1,10 @@
+<h2 class="title_generic">Lista de produtos:</h2>
+<div class="container_list">
+  {{#each products}}
+    <div class="card_list">
+      <h3 class="title_container_list">{{this.name}}</h3>
+      <p class="price_list">R${{this.price}}</p>
+      <a href="/product/{{this.id}}" class="link_list">Ver mais</a>
+    </div>
+  {{/each}}
+</div>
